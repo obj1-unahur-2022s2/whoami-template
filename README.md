@@ -1,47 +1,36 @@
-# Gerardo Martín González Tulián
-![Gerardo Martín González Tulián](./assets/GerardoGonzalezTulian.jpeg)
+![Logo UNAHUR](./assets/UNAHUR.png)
 
-Profersor Adjunto de **Programación con Objetos I** del Instituto de Tecnología e Ingeniería e Investigador del **Centro de Investigación y desarrollo en informática aplicada** _(CIDIA)_ en la **Universidad Nacional de Hurlingham**.
+Bienvenidos a
+# Programación con objetos I
 
+En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
+Para ello usaremos como herramienta el lenguaje Wollok.
 
-## Datos Varios
-* Perfil público en [LinkedIn](https://www.linkedin.com/in/gerardomartingonzaleztulian/)
-* Software Engineer
-* Docente Universitario desde el año 2010
-* **48** años de edad 
-* Lugar de residencia San Fernando - Buenos Aires
-
-## Lenguajes que conozco y que me gustarían conocer
-- [x] Wollok
-- [x] Java
-- [x] NodeJs
-- [x] JavaScript
-- [x] React Js
-- [x] C / C++
-- [x] SQL
-- [ ] Kotlin
-- [ ] Goland
-- [ ] Sclala
-- [ ] Ruby
-- [ ] Angular
-
-## Gustos :smile:
-Mi series preferidas son Breaking Bad and Better Call Saul :+1:
-
-Me gusta el Futbol y soy simpatizante de Boca Juniors :muscle:
-
-Mi mùsica preferida es el Rock :metal:
-
-Me gusta mucho escribir código   
 ```
 object programacionConObjetos { 
     method saludar() { 
-        return  "Bienvenido a Objetos 1" 
+        return  "Bienvenidxs!" 
     }
 }
 ```
 
+## Datos de la cursada :book:
+* Modalidad Mixta
+* Horario comisión **noche**: Martes 18hs.
+* Horario comisión **tarde**: Jueves 14hs.
+* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
+* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo y Matías Müller
+
+## Links importantes :monocle_face:
+- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
+- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1FTLWZ96uVd8V1xNkm2wvaUHhfS9MiC_LEomQYwJhI6I/edit#gid=1006593733) de clases.
+- [x] [Matricularse](https://discord.gg/RnAwZsSwdw) y ver el canal de Discord.
+- [x] [Clase de consulta](https://meet.google.com/ova-hohx-gzf) de los sábados 15 a 17 hs.
+- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+
 ### Referencias Markdown 
 * [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_ 
+* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+
+* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
